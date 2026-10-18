@@ -1,0 +1,13 @@
+dataset,condition,runs,accuracy_mean_percent,accuracy_sample_std_percent
+mnist,digital,10,82.962001,0.656232
+mnist,32,10,82.107000,0.959317
+mnist,128,10,82.900001,0.691070
+mnist,303,10,82.936000,0.675594
+mnist,370,10,82.947000,0.665250
+mnist,526,10,82.995999,0.664266
+fashion_mnist,digital,10,71.662000,0.825695
+fashion_mnist,32,10,71.177001,1.371746
+fashion_mnist,128,10,71.651000,0.843240
+fashion_mnist,303,10,71.642001,0.906909
+fashion_mnist,370,10,71.602001,0.851022
+fashion_mnist,526,10,71.698000,0.798022

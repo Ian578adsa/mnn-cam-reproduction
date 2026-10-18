@@ -1,0 +1,105 @@
+Starting to train network 1/10.
+From D:\projects\mnn-cam-reproduction\.venv\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+Loaded dataset "mnist" (training): 48000 examples.
+Loaded dataset "mnist" (validation): 12000 examples.
+From D:\projects\mnn-cam-reproduction\.venv\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+Epoch 1/2	loss: 1.7911 - accuracy: 0.6171 - val_loss: 1.3549 - val_accuracy: 0.7615
+Epoch 2/2	loss: 1.0857 - accuracy: 0.8010 - val_loss: 0.8879 - val_accuracy: 0.8313
+Starting to train network 2/10.
+Epoch 1/2	loss: 1.7981 - accuracy: 0.5925 - val_loss: 1.3584 - val_accuracy: 0.7395
+Epoch 2/2	loss: 1.0909 - accuracy: 0.7862 - val_loss: 0.8938 - val_accuracy: 0.8223
+Starting to train network 3/10.
+Epoch 1/2	loss: 1.8039 - accuracy: 0.6041 - val_loss: 1.3656 - val_accuracy: 0.7614
+Epoch 2/2	loss: 1.0943 - accuracy: 0.8048 - val_loss: 0.8937 - val_accuracy: 0.8349
+Starting to train network 4/10.
+Epoch 1/2	loss: 1.7451 - accuracy: 0.6119 - val_loss: 1.2979 - val_accuracy: 0.7708
+Epoch 2/2	loss: 1.0482 - accuracy: 0.8072 - val_loss: 0.8625 - val_accuracy: 0.8335
+Starting to train network 5/10.
+Epoch 1/2	loss: 1.7927 - accuracy: 0.5926 - val_loss: 1.3584 - val_accuracy: 0.7471
+Epoch 2/2	loss: 1.1010 - accuracy: 0.7934 - val_loss: 0.9045 - val_accuracy: 0.8273
+Starting to train network 6/10.
+Epoch 1/2	loss: 1.7712 - accuracy: 0.6154 - val_loss: 1.3354 - val_accuracy: 0.7498
+Epoch 2/2	loss: 1.0787 - accuracy: 0.7894 - val_loss: 0.8907 - val_accuracy: 0.8178
+Starting to train network 7/10.
+Epoch 1/2	loss: 1.7665 - accuracy: 0.6092 - val_loss: 1.3317 - val_accuracy: 0.7438
+Epoch 2/2	loss: 1.0779 - accuracy: 0.7878 - val_loss: 0.8923 - val_accuracy: 0.8217
+Starting to train network 8/10.
+Epoch 1/2	loss: 1.7774 - accuracy: 0.5787 - val_loss: 1.3402 - val_accuracy: 0.7447
+Epoch 2/2	loss: 1.0874 - accuracy: 0.7888 - val_loss: 0.9014 - val_accuracy: 0.8216
+Starting to train network 9/10.
+Epoch 1/2	loss: 1.7580 - accuracy: 0.5747 - val_loss: 1.3320 - val_accuracy: 0.7139
+Epoch 2/2	loss: 1.0881 - accuracy: 0.7691 - val_loss: 0.9048 - val_accuracy: 0.8119
+Starting to train network 10/10.
+Epoch 1/2	loss: 1.8066 - accuracy: 0.6127 - val_loss: 1.3559 - val_accuracy: 0.7529
+Epoch 2/2	loss: 1.0860 - accuracy: 0.7876 - val_loss: 0.8900 - val_accuracy: 0.8176
+Starting to train network 1/10.
+Loaded dataset "fashion_mnist" (training): 48000 examples.
+Loaded dataset "fashion_mnist" (validation): 12000 examples.
+Epoch 1/2	loss: 1.6053 - accuracy: 0.5735 - val_loss: 1.2128 - val_accuracy: 0.7003
+Epoch 2/2	loss: 1.0430 - accuracy: 0.7155 - val_loss: 0.9141 - val_accuracy: 0.7364
+Starting to train network 2/10.
+Epoch 1/2	loss: 1.6583 - accuracy: 0.5418 - val_loss: 1.2240 - val_accuracy: 0.6963
+Epoch 2/2	loss: 1.0450 - accuracy: 0.7135 - val_loss: 0.9082 - val_accuracy: 0.7409
+Starting to train network 3/10.
+Epoch 1/2	loss: 1.6202 - accuracy: 0.5320 - val_loss: 1.1993 - val_accuracy: 0.6658
+Epoch 2/2	loss: 1.0346 - accuracy: 0.7041 - val_loss: 0.9119 - val_accuracy: 0.7221
+Starting to train network 4/10.
+Epoch 1/2	loss: 1.6085 - accuracy: 0.5709 - val_loss: 1.1837 - val_accuracy: 0.6924
+Epoch 2/2	loss: 1.0235 - accuracy: 0.7060 - val_loss: 0.9034 - val_accuracy: 0.7228
+Starting to train network 5/10.
+Epoch 1/2	loss: 1.5505 - accuracy: 0.5991 - val_loss: 1.1756 - val_accuracy: 0.7035
+Epoch 2/2	loss: 1.0206 - accuracy: 0.7070 - val_loss: 0.9021 - val_accuracy: 0.7324
+Starting to train network 6/10.
+Epoch 1/2	loss: 1.6402 - accuracy: 0.5458 - val_loss: 1.2227 - val_accuracy: 0.6782
+Epoch 2/2	loss: 1.0470 - accuracy: 0.7043 - val_loss: 0.9169 - val_accuracy: 0.7278
+Starting to train network 7/10.
+Epoch 1/2	loss: 1.6109 - accuracy: 0.5801 - val_loss: 1.1929 - val_accuracy: 0.6794
+Epoch 2/2	loss: 1.0284 - accuracy: 0.7040 - val_loss: 0.9037 - val_accuracy: 0.7245
+Starting to train network 8/10.
+Epoch 1/2	loss: 1.6676 - accuracy: 0.5585 - val_loss: 1.2460 - val_accuracy: 0.6817
+Epoch 2/2	loss: 1.0632 - accuracy: 0.7014 - val_loss: 0.9245 - val_accuracy: 0.7278
+Starting to train network 9/10.
+Epoch 1/2	loss: 1.6455 - accuracy: 0.5881 - val_loss: 1.2362 - val_accuracy: 0.6948
+Epoch 2/2	loss: 1.0546 - accuracy: 0.7104 - val_loss: 0.9172 - val_accuracy: 0.7325
+Starting to train network 10/10.
+Epoch 1/2	loss: 1.6162 - accuracy: 0.6043 - val_loss: 1.2069 - val_accuracy: 0.7178
+Epoch 2/2	loss: 1.0363 - accuracy: 0.7285 - val_loss: 0.9075 - val_accuracy: 0.7527
+Loaded dataset "mnist" (testing): 10000 examples.
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\digital\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\digital\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=32,G_off=5.51e-09,G_on=0.000176}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=32,G_off=5.51e-09,G_on=0.000176}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=32,G_off=5.51e-09,G_on=0.000176}\power.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=128,G_off=3.62e-10,G_on=0.00264}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=128,G_off=3.62e-10,G_on=0.00264}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=128,G_off=3.62e-10,G_on=0.00264}\power.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=303,G_off=1.09e-08,G_on=0.00204}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=303,G_off=1.09e-08,G_on=0.00204}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=303,G_off=1.09e-08,G_on=0.00204}\power.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=370,G_off=1.06e-08,G_on=0.00218}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=370,G_off=1.06e-08,G_on=0.00218}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=370,G_off=1.06e-08,G_on=0.00218}\power.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=526,G_off=3.13e-08,G_on=0.00252}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=526,G_off=3.13e-08,G_on=0.00252}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\mnist\inference\discretised={num_states=526,G_off=3.13e-08,G_on=0.00252}\power.npy".
+Loaded dataset "fashion_mnist" (testing): 10000 examples.
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\digital\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\digital\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=32,G_off=5.51e-09,G_on=0.000176}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=32,G_off=5.51e-09,G_on=0.000176}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=32,G_off=5.51e-09,G_on=0.000176}\power.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=128,G_off=3.62e-10,G_on=0.00264}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=128,G_off=3.62e-10,G_on=0.00264}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=128,G_off=3.62e-10,G_on=0.00264}\power.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=303,G_off=1.09e-08,G_on=0.00204}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=303,G_off=1.09e-08,G_on=0.00204}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=303,G_off=1.09e-08,G_on=0.00204}\power.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=370,G_off=1.06e-08,G_on=0.00218}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=370,G_off=1.06e-08,G_on=0.00218}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=370,G_off=1.06e-08,G_on=0.00218}\power.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=526,G_off=3.13e-08,G_on=0.00252}\loss.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=526,G_off=3.13e-08,G_on=0.00252}\accuracy.npy".
+Saved file "D:\projects\mnn-cam-reproduction\_gen\fashion_mnist\inference\discretised={num_states=526,G_off=3.13e-08,G_on=0.00252}\power.npy".
+Saved file "plots\discretisation-boxplots.pdf".
